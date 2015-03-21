@@ -38,6 +38,7 @@ header.jumbotron {
 		height: 1.5em;
 		margin: 1rem;
 		display: inline-block;
+		align-items: center;
 		color: inherit;
 		transition: all 0.4s ease;
 	}

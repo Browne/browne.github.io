@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,600italic,300italic);
+@import url(fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,600italic,300italic);
 
 /* colour pallete: #3F2860, #90C5A9, #7A9A95, #EF6D3B */
 html {
@@ -37,6 +37,7 @@ header.jumbotron {
 		height: 1.5em;
 		margin: 1rem;
 		display: inline-block;
+		align-items: center;
 		color: inherit;
 		transition: all 0.4s ease;
 	}

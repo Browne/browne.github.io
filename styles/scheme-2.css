@@ -9,7 +9,7 @@ html {
 
 body {
 	font: 16px/1.4 'Open Sans', Helvetica, Arial, Sans-Serif;
-	background: #3F2860 url(/bg/2.jpg) center no-repeat;
+	background: #3F2860 url(bg/2.jpg) center no-repeat;
 	background-size: cover;
 	min-height: 100%;
 	display: flex;
